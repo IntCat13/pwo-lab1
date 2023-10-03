@@ -5,13 +5,15 @@ public class Main {
         System.out.printf("Hello and welcome!");
     }
 
-    public void NewFunction1()
-    {
+    public void NewFunction1() {
         System.out.println("Nowa funkcja 1!");
     }
 
-    public void NewFunction2()
-    {
+    public void NewFunction2() {
         System.out.println("Nowa 321!");
+    }
+
+    public void addNewUser(String imie){
+        System.out.println(imie);
     }
 }
