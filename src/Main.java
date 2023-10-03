@@ -16,4 +16,8 @@ public class Main {
     public void addNewUser(String imie){
         System.out.println(imie);
     }
+
+    public void addNewItem(String item){
+        System.out.println(item);
+    }
 }
