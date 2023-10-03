@@ -12,6 +12,6 @@ public class Main {
 
     public void NewFunction2()
     {
-        System.out.println("Nowa funkcja 2!");
+        System.out.println("Nowa funkcja 3!");
     }
 }
