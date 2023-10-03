@@ -9,4 +9,9 @@ public class Main {
     {
         System.out.println("Nowa funkcja 1!");
     }
+
+    public void NewFunction2()
+    {
+        System.out.println("Nowa funkcja 2!");
+    }
 }
