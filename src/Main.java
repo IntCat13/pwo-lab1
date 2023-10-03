@@ -20,4 +20,8 @@ public class Main {
     public void addNewItemPoprawione2(String item){
         System.out.println(item);
     }
+
+    public void addNewItem2(String item){
+        System.out.println(item);
+    }
 }
