@@ -17,7 +17,7 @@ public class Main {
         System.out.println(imie);
     }
 
-    public void addNewItem(String item){
+    public void addNewItemPoprawione(String item){
         System.out.println(item);
     }
 }
